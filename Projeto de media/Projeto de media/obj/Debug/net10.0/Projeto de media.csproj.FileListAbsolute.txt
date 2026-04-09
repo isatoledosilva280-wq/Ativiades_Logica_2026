@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\bin\Debug\net10.0\Projeto de media.exe
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\bin\Debug\net10.0\Projeto de media.deps.json
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\bin\Debug\net10.0\Projeto de media.runtimeconfig.json
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\bin\Debug\net10.0\Projeto de media.dll
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\bin\Debug\net10.0\Projeto de media.pdb
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\obj\Debug\net10.0\Projeto de media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\obj\Debug\net10.0\Projeto de media.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\obj\Debug\net10.0\Projeto de media.AssemblyInfo.cs
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\obj\Debug\net10.0\Projeto de media.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\obj\Debug\net10.0\Projeto de media.dll
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\obj\Debug\net10.0\refint\Projeto de media.dll
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\obj\Debug\net10.0\Projeto de media.pdb
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\obj\Debug\net10.0\Projeto de media.genruntimeconfig.cache
+C:\Users\DEV\source\repos\Projeto de media\Projeto de media\obj\Debug\net10.0\ref\Projeto de media.dll

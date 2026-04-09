@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\Joao\Joao\bin\Debug\net10.0\Joao.exe
+C:\Users\DEV\source\repos\Joao\Joao\bin\Debug\net10.0\Joao.deps.json
+C:\Users\DEV\source\repos\Joao\Joao\bin\Debug\net10.0\Joao.runtimeconfig.json
+C:\Users\DEV\source\repos\Joao\Joao\bin\Debug\net10.0\Joao.dll
+C:\Users\DEV\source\repos\Joao\Joao\bin\Debug\net10.0\Joao.pdb
+C:\Users\DEV\source\repos\Joao\Joao\obj\Debug\net10.0\Joao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\Joao\Joao\obj\Debug\net10.0\Joao.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\Joao\Joao\obj\Debug\net10.0\Joao.AssemblyInfo.cs
+C:\Users\DEV\source\repos\Joao\Joao\obj\Debug\net10.0\Joao.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\Joao\Joao\obj\Debug\net10.0\Joao.dll
+C:\Users\DEV\source\repos\Joao\Joao\obj\Debug\net10.0\refint\Joao.dll
+C:\Users\DEV\source\repos\Joao\Joao\obj\Debug\net10.0\Joao.pdb
+C:\Users\DEV\source\repos\Joao\Joao\obj\Debug\net10.0\Joao.genruntimeconfig.cache
+C:\Users\DEV\source\repos\Joao\Joao\obj\Debug\net10.0\ref\Joao.dll

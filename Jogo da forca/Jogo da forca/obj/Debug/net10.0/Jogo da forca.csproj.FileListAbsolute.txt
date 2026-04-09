@@ -1,0 +1,14 @@
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net10.0\Jogo da forca.exe
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net10.0\Jogo da forca.deps.json
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net10.0\Jogo da forca.runtimeconfig.json
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net10.0\Jogo da forca.dll
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\bin\Debug\net10.0\Jogo da forca.pdb
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net10.0\Jogo da forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net10.0\Jogo da forca.AssemblyInfoInputs.cache
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net10.0\Jogo da forca.AssemblyInfo.cs
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net10.0\Jogo da forca.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net10.0\Jogo da forca.dll
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net10.0\refint\Jogo da forca.dll
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net10.0\Jogo da forca.pdb
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net10.0\Jogo da forca.genruntimeconfig.cache
+C:\Users\DEV\source\repos\Jogo da forca\Jogo da forca\obj\Debug\net10.0\ref\Jogo da forca.dll

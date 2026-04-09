@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEV\\source\\repos\\Jogo da forca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF4CEF1-0340-49A5-9CDE-330EFEFFEA4A}|Jogo da forca\\Jogo da forca.csproj|c:\\users\\dev\\source\\repos\\jogo da forca\\jogo da forca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF4CEF1-0340-49A5-9CDE-330EFEFFEA4A}|Jogo da forca\\Jogo da forca.csproj|solutionrelative:jogo da forca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEV\\source\\repos\\Jogo da forca\\Jogo da forca\\Program.cs",
+              "RelativeDocumentMoniker": "Jogo da forca\\Program.cs",
+              "ToolTip": "C:\\Users\\DEV\\source\\repos\\Jogo da forca\\Jogo da forca\\Program.cs",
+              "RelativeToolTip": "Jogo da forca\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:50:11.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
